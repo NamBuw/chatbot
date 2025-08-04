@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ### Bước 4: Cấu hình API Key
 1. Lấy Google Gemini API key từ [Google AI Studio](https://makersuite.google.com/app/apikey)
-2. Mở file `enhanced_main_final.py`
+2. Mở file `main.py`
 3. Thay thế `API_KEY` bằng key của bạn:
 ```python
 API_KEY = "your-gemini-api-key-here"
