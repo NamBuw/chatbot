@@ -129,7 +129,7 @@ Chỉnh sửa file `user_info.json`:
 ```
 
 ### Thay đổi cài đặt âm thanh
-Trong file `enhanced_main_final.py`, tìm và chỉnh sửa:
+Trong file `main.py`, tìm và chỉnh sửa:
 ```python
 # Audio settings
 sample_rate = 16000          # Tần số lấy mẫu
