@@ -1,0 +1,30 @@
+# Requirements file for Enhanced Vietnamese Companion Chatbot
+
+# Core dependencies
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+libportaudio2
+
+# Speech processing
+sounddevice>=0.4.6
+numpy>=1.24.0
+noisereduce>=3.0.0
+
+# Machine learning models
+git+https://github.com/openai/whisper.git
+silero-vad==5.1
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# File handling and utilities
+python-dateutil>=2.8.2
+
+# Audio processing (optional GPU support)
+# For CUDA support, install pytorch with CUDA from: https://pytorch.org/get-started/locally/
+
+# Development dependencies (optional)
+# jupyter>=1.0.0
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
