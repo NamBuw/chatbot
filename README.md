@@ -1,8 +1,8 @@
-# Enhanced Vietnamese Companion Chatbot
+# Vietnamese Companion Chatbot
 
 ## 🎯 Mô tả
 
-**Enhanced Vietnamese Companion Chatbot** là một ứng dụng trò chuyện AI tiên tiến được thiết kế đặc biệt để trò chuyện và đồng hành cùng người lớn tuổi Việt Nam. Ứng dụng sử dụng công nghệ Speech-to-Text (STT) của OpenAI Whisper, Voice Activity Detection (VAD) của Silero, và Google Gemini AI để tạo ra những cuộc trò chuyện tự nhiên, ấm áp và có cảm xúc.
+**Vietnamese Companion Chatbot** là một ứng dụng trò chuyện AI tiên tiến được thiết kế đặc biệt để trò chuyện và đồng hành cùng người lớn tuổi Việt Nam. Ứng dụng sử dụng công nghệ Speech-to-Text (STT) của OpenAI Whisper, Voice Activity Detection (VAD) của Silero, và Google Gemini AI để tạo ra những cuộc trò chuyện tự nhiên, ấm áp và có cảm xúc.
 
 ## ✨ Tính năng chính
 
