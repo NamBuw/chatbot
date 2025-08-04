@@ -1,0 +1,11 @@
+{
+  "name": "Bác Tâm",
+  "age": 70,
+  "gender": "Nam",
+  "hometown": "Nam Định",
+  "location": "Hà Nội",
+  "occupation": "Giáo viên về hưu",
+  "family": "Có vợ, 2 con, 3 cháu",
+  "health": "Khỏe mạnh",
+  "call_style": "bác"
+}
