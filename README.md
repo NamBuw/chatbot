@@ -41,8 +41,8 @@
 
 ### Bước 1: Clone repository
 ```bash
-git clone https://github.com/your-repo/enhanced-vietnamese-companion-chatbot.git
-cd enhanced-vietnamese-companion-chatbot
+git clone https://github.com/NamBuw/chatbot.git
+cd chatbot
 ```
 
 ### Bước 2: Tạo virtual environment
@@ -71,13 +71,13 @@ API_KEY = "your-gemini-api-key-here"
 
 ### Bước 5: Chạy ứng dụng
 ```bash
-python enhanced_main_final.py
+python main.py
 ```
 
 ## 📋 Hướng dẫn sử dụng
 
 ### Khởi động
-1. Chạy `python enhanced_main_final.py`
+1. Chạy `main.py`
 2. Chọn chủ đề tâm sự (1-5)
 3. Chờ hệ thống tải models (có thể mất vài phút lần đầu)
 
@@ -97,8 +97,8 @@ Hệ thống tự động cập nhật thông tin khi bạn chia sẻ:
 ## 📁 Cấu trúc thư mục
 
 ```
-enhanced-vietnamese-companion-chatbot/
-├── enhanced_main_final.py    # File chính
+chatbot/
+├── main.py                    # File chính
 ├── requirements.txt          # Dependencies
 ├── README.md                # Tài liệu này
 ├── user_info.json           # Thông tin cá nhân (tự động tạo)
@@ -217,10 +217,8 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE`
 
 ## 📞 Liên hệ
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/enhanced-vietnamese-companion-chatbot/issues)
-- **Email**: your-email@example.com
-- **Telegram**: @your-telegram
-
+- **Issues**: [GitHub Issues](https://github.com/NamBuw/chatbot/issues)
+- **Email**: trungnam0708qwert@gmail.com
 ---
 
 **Made with ❤️ for Vietnamese elderly community**
